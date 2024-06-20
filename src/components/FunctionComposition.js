@@ -35,6 +35,10 @@ function FunctionComposition() {
     console.log(transform(input));
 
 
+    const number_01 = '100';
+    const number_02 = 100;
+
+    console.log(number_01 === number_02);
 
 
   return (
